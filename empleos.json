@@ -1,0 +1,34 @@
+ {
+        "estatus": 1,
+        "horario": null,
+        "sueldo": 0,
+        "latitud": null,
+        "lontigud": null,
+        "fechaPubliccado": null,
+        "descripcion": "Informes en el negocio",
+        "pathFoto": "https://i.postimg.cc/zHSd1tF6/1.png",
+        "direccion": "Mariano Antonio y Máximo Bravo 57",
+        "telefono": "0000000000",
+        "municipio": "Cuautla",
+        "estado": "Morelos",
+        "pais": null,
+        "nombreNegocio": "Tacos al carbon las brasas",
+        "catTiposTrabajo": {
+            "id": 1
+        },
+        "negocio": {
+            "id": 1,
+            "nombre": "Restaurante"
+        },
+        "requisitos": {
+            "edadMinima": 0,
+            "edadMaxima": 0,
+            "solicitud": 1,
+            "experiencia": 0,
+            "ine": 1,
+            "rfc": 0,
+            "curp": 0,
+            "comprobanteDomicilio": 1,
+            "actaNacimiento": 0
+        }
+    }
